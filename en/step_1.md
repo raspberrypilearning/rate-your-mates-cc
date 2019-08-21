@@ -1,58 +1,58 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You are going to code your micro:bit to tell you how compatible you are with your friends.
 
-### What you will make
+__Instructions__: If you're reading this online, press __A+B__ on the micro:bit below with a friend to find out your friendship rating.
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket" style="width:400px;margin: 0 auto;">
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_iLDhcVa0K2Fd" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Additional information for club leaders
+
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/rate-your-mates/print).
+
 
 --- collapse ---
 ---
-title: What you will need
+title: Club leader notes
 ---
-### Hardware
 
-+ Describe hardware here
 
-### Software
+## Introduction:
+In this project, children will learn how to make use of variables and random numbers by making a compatibility program. Two users will each press a button on the micro:bit, which will then tell them their compatibility percentage.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+## Resources
+For this project, the [MakeCode (PXT)](http://jumpto.cc/mb-new) microbit editor should be used.
 
-### Downloads
+You can find a completed version of this project at [makecode.microbit.org/#pub:57756-45098-79806-84952](https://makecode.microbit.org/#pub:57756-45098-79806-84952, and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ microbit-Rate-Your-Mates.hex
+
+## Learning Objectives
++ `>` and `<` relational operators;
++ Repetition (`for` loop).
+
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+
++ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+
+## Challenges
++ "Low rating" - Use of `if` statement and `<` relational operator to show a cross or a sad face if the rating is under 25.
++ "More animations" - Use of a `for` loop to create more animations.
+
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Project materials
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+## Club leader resources
+* [online completed project](https://makecode.microbit.org/#pub:57756-45098-79806-84952)
+* [.hex project file to transfer onto your micro:bit](resources/microbit-Rate-Your-Mates.hex)
 
 --- /collapse ---
